@@ -4,22 +4,18 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/499ade93-e2a8-4f56-89f0-c2bb0eca3226/deploy-status" />
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/501cc357-6d83-4a98-ba10-6996b005a96c/deploy-status" />
 </p>
 
 ## Reason for choosing this project:
 
-This was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState and React in general.
+This was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState, useEffect, and React in general.
 
-### 🏠 [Homepage](https://mpayne-react-foodmenu.netlify.app/)
+### 🏠 [Homepage](https://mpayne-react-experience.netlify.app/)
 
 ## Functionality:
 
-- The application serves as a food menu. Each food item has a category that corresponds to one of the food item categories at the top of the menu. Users can filter the food menu by selecting one of the food category buttons. For example, if a user selects "Breakfast", the menu will update to only show food items that have the "Breakfast" category.
-
-## What I am proud of:
-
-The food category buttons are coded dynamically and will automatically adjust when new categories are added. For example, if a new food item with a "dinner" category is added to the data, the "dinner" button will appear on the menu without the developer having manually add it to the code.
+- The application serves as a professional experience section used in a resume or online portfolio. The section is organized by tabs, each representing a company a person wants to highlight. Clicking on a tab will display job information the person did for that particular company, like their role, employment dates, and a job description.
 
 ## Technologies:
 
